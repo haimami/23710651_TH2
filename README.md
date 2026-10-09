@@ -89,3 +89,8 @@ KTXGo_23710651/
   - Tính khoảng cách Haversine từ toạ độ hiện tại tới cổng KTX.
   - Tính phí ship theo công thức B: `9000 + Math.round(km * 1500) + 2000`. Phí ship tại tab Tôi được tự động phản ánh sang giỏ hàng (Cart).
   - Nút "Đăng xuất" tại tab Tôi xoá token và chuyển về `LoginScreen`.
+
+## 4. Xác Nhận Hoàn Thành Đề Thi
+- Đã hoàn thành trọn vẹn 100% cả 3 câu hỏi theo đúng file đề `2a_de_thuc-hanh_lttbdd`.
+- Toàn bộ thư mục dự án đã được đồng bộ hoàn chỉnh lên GitHub.
+
